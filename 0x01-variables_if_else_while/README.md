@@ -9,3 +9,4 @@
 - 7. Smile in the mirror task
 - 8. Hexadecimal task
 - 9. Patience, persistence and perspiration make an unbeatable combination for success task
+- 10. Inventing is a combination of brains and materials. The more brains you use, the less material you need task
