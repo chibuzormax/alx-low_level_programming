@@ -8,3 +8,4 @@
 - 6. Numberz task
 - 7. Smile in the mirror task
 - 8. Hexadecimal task
+- 9. Patience, persistence and perspiration make an unbeatable combination for success task
