@@ -6,3 +6,4 @@
 - 4. When I was having that alphabet soup, I never thought that it would pay off task
 - 5. Numbers
 - 6. Numberz task
+- 7. Smile in the mirror task
