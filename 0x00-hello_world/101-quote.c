@@ -2,9 +2,9 @@
 #include <unistd.h>
 
 /**
- * main - Uses unistd library
+ * main - prints exactly and that piece of art is useful
  *
- * Return 1 (Success)
+ * Return: 1 (Success)
  */
 
 int main(void)
