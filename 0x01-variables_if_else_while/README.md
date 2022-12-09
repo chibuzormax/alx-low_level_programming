@@ -7,3 +7,4 @@
 - 5. Numbers
 - 6. Numberz task
 - 7. Smile in the mirror task
+- 8. Hexadecimal task
