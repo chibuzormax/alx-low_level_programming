@@ -6,13 +6,13 @@
 
 void print_alphabet_x10(void)
 {
-	char lower;
+	char low;
 	int count = 0;
 
 	while (count++ <= 9)
 	{
-		for (lower = 0; lower <= 'z'; lower++)
-			_putchar(lower);
-		_putchar('\n');
+		for (low = 'a'; low <= 'z'; low++)
+		_putchar(low);
+	_putchar('\n');
 	}
 }
