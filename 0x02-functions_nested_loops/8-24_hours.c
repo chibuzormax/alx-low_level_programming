@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- * jack_bauner - prints time within a range
+ * jack_bauer - prints time within a range
  */
 
-void jack_bauner(void)
+void jack_bauer(void)
 {
 	int hour, minute;
 
