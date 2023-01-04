@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * confirms - Confirms it number is prime
+ * confirm - Confirms it number is prime
  * @a: integer
  * @b: integer
  *
