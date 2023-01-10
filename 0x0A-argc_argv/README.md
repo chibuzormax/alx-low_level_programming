@@ -5,4 +5,4 @@
 - Silence is argument carried out by other means
 - Neither irony nor sarcasm is argument
 - To infinity and beyond
-- 
+- Minimal Number of Coins for Change 
