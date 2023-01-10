@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /**
- * main - Adas positive integers together
+ * main - Adds positive integers together
  * @argc: Arguments count
  * @argv: Arguments vector
  *
@@ -19,7 +19,7 @@ int main(int argc, char **argv)
 		printf("0\n");
 		return (0);
 	}
-	for (i = 0; argv[i]; i++)
+	for (i = 1; argv[i]; i++)
 	{
 		n = strtol(argv[i], &flag, 10);
 		if (*flag)
@@ -28,7 +28,9 @@ int main(int argc, char **argv)
 			return (1);
 		}
 		else
+		{
 			sum += n;
+		}
 	}
 	printf("%d\n", sum);
 	return (0);
