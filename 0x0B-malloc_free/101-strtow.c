@@ -26,7 +26,7 @@ char **strtow(char *str)
 		}
 		i++;
 	}
-	len += flaf == 1 ? 1 : 0;
+	len += flag == 1 ? 1 : 0;
 	if (len == 0)
 		return (NULL);
 	words = (char **)malloc(sizeof(char *) * (len + 1));
