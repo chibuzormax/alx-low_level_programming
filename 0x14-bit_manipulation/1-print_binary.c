@@ -1,4 +1,4 @@
-#include "main.h"
+i#include "main.h"
 
 /**
  * _power - Calculates base and power
@@ -15,7 +15,7 @@ unsigned long int _power(unsigned int base, unsigned int pow)
 
 	num = 1;
 	for (i = 1; i <= pow; i++)
-		num += base;
+		num *= base;
 	return (num);
 }
 
